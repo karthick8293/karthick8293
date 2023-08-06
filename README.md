@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthick8293
+- 👋 Hi, I’m karthick
 - 👀 I’m interested in .NET6
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on FORK AND PULL MODEL
